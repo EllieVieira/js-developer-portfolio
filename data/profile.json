@@ -7,7 +7,7 @@
   "email": "elyvieira95@gmail.com",
   "skills": {
     "hardSkills": [
-       {
+      {
         "name": "HTML",
         "logo": "https://raw.githubusercontent.com/EllieVieira/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
       },
@@ -48,13 +48,28 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Landing Page Codar",
+      "url": "https://github.com/EllieVieira/My-Project-2-Codar",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Yugioh-Jokenpo Game",
+      "url": "https://github.com/EllieVieira/My-code-3-bootcamp9-JS-yugioh-assets",
+      "github": true
+    },
+    {
+      "name": "Landing Page Discord",
+      "url": "https://github.com/EllieVieira/My-Project-9-bootcamp6-CSS",
+      "github": true
+    },
+    {
+      "name": "Landing Page Bootcamp",
+      "url": "https://github.com/EllieVieira/My-Project-7-bootcamp4-CSS",
+      "github": true
+    },
+    {
+      "name": "Landing Page WorkPlin",
+      "url": "https://github.com/EllieVieira/My-Project-6-Work-Plin",
       "github": true
     }
   ],
